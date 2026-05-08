@@ -1,0 +1,13 @@
+{
+  "name": "watchdog",
+  "version": "0.1.0",
+  "description": "Heartbeat monitoring service — get alerted when your scripts go silent",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
